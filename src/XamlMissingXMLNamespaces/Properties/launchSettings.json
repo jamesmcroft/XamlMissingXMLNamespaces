@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XamlMissingXMLNamespaces": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
